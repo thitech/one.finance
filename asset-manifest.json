@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.55cf169d.css",
-    "main.js": "/static/js/main.1475384a.js",
+    "main.css": "/static/css/main.6189ca28.css",
+    "main.js": "/static/js/main.824af856.js",
     "static/js/453.0e001212.chunk.js": "/static/js/453.0e001212.chunk.js",
-    "static/media/ONE.FINANCEORIGINAL.png": "/static/media/ONE.FINANCEORIGINAL.38de9ea2d17a03f9c3f9.png",
+    "static/media/Mispah.png": "/static/media/Mispah.1f6ed50b9371127e8ca3.png",
+    "static/media/one-finance-logo.png": "/static/media/one-finance-logo.38de9ea2d17a03f9c3f9.png",
     "index.html": "/index.html",
-    "main.55cf169d.css.map": "/static/css/main.55cf169d.css.map",
-    "main.1475384a.js.map": "/static/js/main.1475384a.js.map",
+    "main.6189ca28.css.map": "/static/css/main.6189ca28.css.map",
+    "main.824af856.js.map": "/static/js/main.824af856.js.map",
     "453.0e001212.chunk.js.map": "/static/js/453.0e001212.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55cf169d.css",
-    "static/js/main.1475384a.js"
+    "static/css/main.6189ca28.css",
+    "static/js/main.824af856.js"
   ]
 }
